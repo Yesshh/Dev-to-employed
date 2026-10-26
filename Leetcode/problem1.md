@@ -12,7 +12,7 @@
 - LeetCode 1281: Subtract the Product and Sum of Digits
 
 ### Solution 
-- Use modulo operator to seperate the digits then perform product and sum on those digits. Return the difference between them.
+- Use modulo operator to seperate the digits then perform product and sum on those digits. Perform integer division. Return the difference between them.
 - Initialise product to 1 and sum to 0. 
 
 ### Next steps
