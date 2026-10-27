@@ -10,13 +10,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | Metric | Progress |
 |---|---|
 | 📅 Day | Day 1 — tracking starts here |
-| 🔥 Current streak | 0 days |
-| 🏆 Longest streak | 0 days |
+| 🔥 Current streak | 1 days |
+| 🏆 Longest streak | 1 days |
 | 💻 LeetCode problems solved | 4 |
 | 📚 Topics covered | Java fundamentals, loops, conditionals, arrays |
 | 🎯 Goal | Land a full-time developer job |
 
-> Update these numbers as you progress. A streak counts consecutive calendar days with learning activity.
+
 
 ## 🗓️ Daily Learning Tracker
 
@@ -27,8 +27,8 @@ This repository documents my journey toward becoming a job-ready software develo
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 0 days
-- **Longest streak:** 0 days
+- **Current streak:** 1 days
+- **Longest streak:** 1 days
 - **Last active date:** 2026-10-27
 - **Next milestone:** 7 consecutive days
 
@@ -55,16 +55,7 @@ This repository documents my journey toward becoming a job-ready software develo
 - [ ] Git, Docker, and deployment
 - [ ] Full-stack development
 
-## 📂 Repository Structure
 
-```text
-java/                  # Java practice and fundamentals
-dsa/                   # Data structures and algorithms
-ai/                    # AI concepts and experiments
-projects/              # Hands-on portfolio projects
-system-design/          # System design and architecture notes
-progress-log/           # Daily logs and weekly retrospectives
-```
 
 ## 🎯 The Mission
 
