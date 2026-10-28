@@ -9,11 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 1 — tracking starts here |
-| 🔥 Current streak | 1 days |
-| 🏆 Longest streak | 1 days |
-| 💻 LeetCode problems solved | 4 |
-| 📚 Topics covered | Java fundamentals, loops, conditionals, arrays |
+| 📅 Day | Day 3 — tracking starts here |
+| 🔥 Current streak | 3 days |
+| 🏆 Longest streak | 3 days |
+| 💻 LeetCode problems solved | 8 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -24,12 +23,13 @@ This repository documents my journey toward becoming a job-ready software develo
 |---|---|---|---|
 | 01 | 2026-10-26 | FizzBuzz, Convert Temperature | ✅ |
 | 02 | 2026-10-27 | Reduce Number to Zero, Running Sum of 1D Array | ✅ |
+| 03 | 2026-10-28 | Shuffle the Array, Concatenation of Array | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 1 days
-- **Longest streak:** 1 days
-- **Last active date:** 2026-10-27
+- **Current streak:** 3 days
+- **Longest streak:** 3 days
+- **Last active date:** 2026-10-28
 - **Next milestone:** 7 consecutive days
 
 ### Streak milestones
