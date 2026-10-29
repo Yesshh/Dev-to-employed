@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 3 — tracking starts here |
-| 🔥 Current streak | 3 days |
-| 🏆 Longest streak | 3 days |
-| 💻 LeetCode problems solved | 8 |
+| 📅 Day | Day 4 — tracking starts here |
+| 🔥 Current streak | 4 days |
+| 🏆 Longest streak | 4 days |
+| 💻 LeetCode problems solved | 11 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -24,12 +24,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 01 | 2026-10-26 | FizzBuzz, Convert Temperature | ✅ |
 | 02 | 2026-10-27 | Reduce Number to Zero, Running Sum of 1D Array | ✅ |
 | 03 | 2026-10-28 | Shuffle the Array, Concatenation of Array | ✅ |
+| 04 | 2026-10-29 | Richest customer wealth, Numbers with even number of digits | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 3 days
-- **Longest streak:** 3 days
-- **Last active date:** 2026-10-28
+- **Current streak:** 4 days
+- **Longest streak:** 4 days
+- **Last active date:** 2026-10-29
 - **Next milestone:** 7 consecutive days
 
 ### Streak milestones
@@ -46,7 +47,7 @@ This repository documents my journey toward becoming a job-ready software develo
 - [x] Loops and conditional statements
 - [x] Modulo operator and arithmetic
 - [x] Arrays and running sums
-- [ ] Object-oriented programming
+- [x] Object-oriented programming
 - [ ] Java Collections Framework
 - [ ] Data Structures & Algorithms
 - [ ] SQL and databases
