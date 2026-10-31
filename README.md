@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 5 — tracking starts here |
-| 🔥 Current streak | 5 days |
-| 🏆 Longest streak | 5 days |
-| 💻 LeetCode problems solved | 12 |
+| 📅 Day | Day 6 — tracking starts here |
+| 🔥 Current streak | 6 days |
+| 🏆 Longest streak | 6 days |
+| 💻 LeetCode problems solved | 13 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -26,12 +26,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 03 | 2026-10-28 | Shuffle the Array, Concatenation of Array | ✅ |
 | 04 | 2026-10-29 | Richest customer wealth, Numbers with even number of digits | ✅ |
 | 05 | 2026-10-30 | Jewels and Stones | ✅ |
+| 06 | 2026-10-31 | Defanging an IP Address | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 5 days
-- **Longest streak:** 5 days
-- **Last active date:** 2026-10-30
+- **Current streak:** 6 days
+- **Longest streak:** 6 days
+- **Last active date:** 2026-10-31
 - **Next milestone:** 7 consecutive days
 
 ### Streak milestones
