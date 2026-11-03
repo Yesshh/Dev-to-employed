@@ -21,15 +21,15 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Day | Date | What I learned / solved | Status |
 |---|---|---|---|
-| 01 | 2026-10-26 | FizzBuzz, Convert Temperature | ✅ |
-| 02 | 2026-10-27 | Reduce Number to Zero, Running Sum of 1D Array | ✅ |
-| 03 | 2026-10-28 | Shuffle the Array, Concatenation of Array | ✅ |
-| 04 | 2026-10-29 | Richest customer wealth, Numbers with even number of digits | ✅ |
-| 05 | 2026-10-30 | Jewels and Stones | ✅ |
-| 06 | 2026-10-31 | Defanging an IP Address | ✅ |
-| 07 | 2026-11-01 | Reverse of an Integer number | ✅ |
-| 08 | 2026-11-02 | Palindrome, Count the digits that divide a number, Add digits, Three divisors, Count prime, GCD of Array | ✅ |
-| 09 | 2026-11-03 | Fibonacci Number, Reverse String, Power of Three, Minimal moves to equal an array II, Minimal moves to equal an array III | ✅ |
+| 01 | 26-10-26 | FizzBuzz, Convert Temperature | ✅ |
+| 02 | 27-10-26 | Reduce Number to Zero, Running Sum of 1D Array | ✅ |
+| 03 | 28-10-26 | Shuffle the Array, Concatenation of Array | ✅ |
+| 04 | 29-10-26 | Richest customer wealth, Numbers with even number of digits | ✅ |
+| 05 | 30-10-26 | Jewels and Stones | ✅ |
+| 06 | 31-10-26 | Defanging an IP Address | ✅ |
+| 07 | 01-11-26 | Reverse of an Integer number | ✅ |
+| 08 | 02-11-26 | Palindrome, Count the digits that divide a number, Add digits, Three divisors, Count prime, GCD of Array | ✅ |
+| 09 | 03-11-26 | Fibonacci Number, Reverse String, Power of Three, Minimal moves to equal an array II, Minimal moves to equal an array III | ✅ |
 
 ## 🔥 Streak Tracker
 
