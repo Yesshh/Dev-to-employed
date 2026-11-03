@@ -9,9 +9,9 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 8 — tracking starts here |
-| 🔥 Current streak | 8 days |
-| 🏆 Longest streak | 8 days |
+| 📅 Day | Day 9 — tracking starts here |
+| 🔥 Current streak | 9 days |
+| 🏆 Longest streak | 9 days |
 | 💻 LeetCode problems solved | 15 |
 | 🎯 Goal | Land a full-time developer job |
 
@@ -28,13 +28,14 @@ This repository documents my journey toward becoming a job-ready software develo
 | 05 | 2026-10-30 | Jewels and Stones | ✅ |
 | 06 | 2026-10-31 | Defanging an IP Address | ✅ |
 | 07 | 2026-11-01 | Reverse of an Integer number| ✅ |
-| 08 | 2026-11-02 | Palindrome, Count the digits that divide a number| ✅ |
+| 08 | 2026-11-02 | Palindrome, Count the digits that divide a number, Add digits, Three divisors, Count prime, GCD of Array| ✅ |
+| 09 | 2026-11-03 | Fibonacci Number, Reverse String, Power of Three| ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 8 days
-- **Longest streak:** 8 days
-- **Last active date:** 2026-11-02
+- **Current streak:** 9 days
+- **Longest streak:** 9 days
+- **Last active date:** 2026-11-03
 - **Next milestone:** 14 consecutive days
 
 ### Streak milestones
