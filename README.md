@@ -30,7 +30,8 @@ This repository documents my journey toward becoming a job-ready software develo
 | 07 | 01-11-2026 | Reverse of an Integer number | ✅ |
 | 08 | 02-11-2026 | Palindrome, Count the digits that divide a number, Add digits, Three divisors, Count prime, GCD of Array | ✅ |
 | 09 | 03-11-2026 | Fibonacci Number, Reverse String, Power of Three, Minimal moves to equal an array II, Minimal moves to equal an array III | ✅ |
-| 10 | 04-11-2026 | Contains Duplicate, Valid Anagram | ✅ | Count Elements with maximum frequency | ❌ |
+| 10 | 04-11-2026 | Contains Duplicate, Valid Anagram | ✅ | 
+| | | | Count Elements with maximum frequency | ❌ |
 
 ## 🔥 Streak Tracker
 
