@@ -9,9 +9,9 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 11 — tracking starts here |
-| 🔥 Current streak | 11 days |
-| 🏆 Longest streak | 11 days |
+| 📅 Day | Day 12 — tracking starts here |
+| 🔥 Current streak | 12 days |
+| 🏆 Longest streak | 12 days |
 | 💻 LeetCode problems solved | 24 |
 | 🎯 Goal | Land a full-time developer job |
 
@@ -32,12 +32,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 09 | 03-11-2026 | Fibonacci Number, Reverse String, Power of Three, Minimal moves to equal an array II, Minimal moves to equal an array III | ✅ |
 | 10 | 04-11-2026 | Contains Duplicate, Valid Anagram | ✅ | 
 | 11 | 05-11-2026 | Count Elements with maximum frequency | ✅ |
+| 12 | 06-11-2026 | Insertion sort List | X |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 11 days
-- **Longest streak:** 11 days
-- **Last active date:** 2026-11-05
+- **Current streak:** 12 days
+- **Longest streak:** 12 days
+- **Last active date:** 2026-11-06
 - **Next milestone:** 14 consecutive days
 
 ### Streak milestones
