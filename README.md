@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 13 — tracking starts here |
-| 🔥 Current streak | 13 days |
-| 🏆 Longest streak | 13 days |
-| 💻 LeetCode problems solved | 25 |
+| 📅 Day | Day 14 — tracking starts here |
+| 🔥 Current streak | 14 days |
+| 🏆 Longest streak | 14 days |
+| 💻 LeetCode problems solved | 26 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -34,18 +34,19 @@ This repository documents my journey toward becoming a job-ready software develo
 | 11 | 05-11-2026 | Count Elements with maximum frequency | ✅ |
 | 12 | 06-11-2026 | Insertion sort List | X |
 | 13 | 07-11-2026 | Plus one | ✅ |
+| 14 | 08-11-2026 | Sort an Array | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 13 days
-- **Longest streak:** 13 days
-- **Last active date:** 2026-11-07
-- **Next milestone:** 14 consecutive days
+- **Current streak:** 14 days
+- **Longest streak:** 14 days
+- **Last active date:** 2026-11-08
+- **Next milestone:** 30 consecutive days
 
 ### Streak milestones
 
 - [x] 🔥 7-day streak
-- [ ] 💪 14-day streak
+- [x] 💪 14-day streak
 - [ ] ⚡ 30-day streak
 - [ ] 🏆 60-day streak
 - [ ] 👑 100-day streak
