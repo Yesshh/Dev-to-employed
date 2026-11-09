@@ -1,0 +1,18 @@
+
+Job Title: Java Developer
+
+Company: ABC Technologies
+
+Location: Bengaluru, India
+
+Experience: 2-4 years
+
+Required Skills:
+Java, Spring Boot, SQL, REST APIs, Git, Maven
+
+Salary: 8-12 LPA
+
+Job Description:
+We are looking for a Java Developer to join our
+engineering team. The candidate should have experience
+developing backend applications and working with REST APIs.
