@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 14 — tracking starts here |
-| 🔥 Current streak | 14 days |
-| 🏆 Longest streak | 14 days |
-| 💻 LeetCode problems solved | 26 |
+| 📅 Day | Day 15 — tracking starts here |
+| 🔥 Current streak | 15 days |
+| 🏆 Longest streak | 15 days |
+| 💻 LeetCode problems solved | 29 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -32,15 +32,16 @@ This repository documents my journey toward becoming a job-ready software develo
 | 09 | 03-11-2026 | Fibonacci Number, Reverse String, Power of Three, Minimal moves to equal an array II, Minimal moves to equal an array III | ✅ |
 | 10 | 04-11-2026 | Contains Duplicate, Valid Anagram | ✅ | 
 | 11 | 05-11-2026 | Count Elements with maximum frequency | ✅ |
-| 12 | 06-11-2026 | Insertion sort List | X |
+| 12 | 06-11-2026 | Insertion sort List | ✅ |
 | 13 | 07-11-2026 | Plus one | ✅ |
 | 14 | 08-11-2026 | Sort an Array | ✅ |
+| 15 | 09-11-2026 | Squares of a sorted Array | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 14 days
-- **Longest streak:** 14 days
-- **Last active date:** 2026-11-08
+- **Current streak:** 15 days
+- **Longest streak:** 15 days
+- **Last active date:** 2026-11-09
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
