@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 15 — tracking starts here |
-| 🔥 Current streak | 15 days |
-| 🏆 Longest streak | 15 days |
-| 💻 LeetCode problems solved | 29 |
+| 📅 Day | Day 16 — tracking starts here |
+| 🔥 Current streak | 16 days |
+| 🏆 Longest streak | 16 days |
+| 💻 LeetCode problems solved | 30 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -36,12 +36,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 13 | 07-11-2026 | Plus one | ✅ |
 | 14 | 08-11-2026 | Sort an Array | ✅ |
 | 15 | 09-11-2026 | Squares of a sorted Array | ✅ |
+| 16 | 10-11-2026 | Merge sorted array | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 15 days
-- **Longest streak:** 15 days
-- **Last active date:** 2026-11-09
+- **Current streak:** 16 days
+- **Longest streak:** 16 days
+- **Last active date:** 2026-11-10
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
