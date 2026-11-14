@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 19 — tracking starts here |
-| 🔥 Current streak | 19 days |
-| 🏆 Longest streak | 19 days |
-| 💻 LeetCode problems solved | 37 |
+| 📅 Day | Day 20 — tracking starts here |
+| 🔥 Current streak | 20 days |
+| 🏆 Longest streak | 20 days |
+| 💻 LeetCode problems solved | 40 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -40,13 +40,14 @@ This repository documents my journey toward becoming a job-ready software develo
 | 17 | 11-11-2026 | Third maximum number, Check if array is sorted and rotated| ✅ |
 | 18 | 12-11-2026 | Rotate array, Move Zeros, Intersection of two arrays| ✅ |
 | 19 | 13-11-2026 | Two sum, Best time to buy and sell stock| ✅ |
+| 20 | 14-11-2026 | Max Consecutive, Single Number, Missing Number ✅ |
 
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 19 days
-- **Longest streak:** 19 days
-- **Last active date:** 13-11-2026
+- **Current streak:** 20 days
+- **Longest streak:** 20 days
+- **Last active date:** 14-11-2026
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
