@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 23 — tracking starts here |
-| 🔥 Current streak | 23 days |
-| 🏆 Longest streak | 23 days |
-| 💻 LeetCode problems solved | 44 |
+| 📅 Day | Day 24 — tracking starts here |
+| 🔥 Current streak | 24 days |
+| 🏆 Longest streak | 24 days |
+| 💻 LeetCode problems solved | 45 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -44,13 +44,14 @@ This repository documents my journey toward becoming a job-ready software develo
 | 21 | 15-11-2026 | Maximum SubArray | ✅ |
 | 22 | 16-11-2026 | Majority Element, Sort colours | ✅ |
 | 23 | 17-11-2026 | Rearrange Array Elements | ✅ |
+| 24 | 18-11-2026 | Range Sum Query | ✅ |
 
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 23 days
-- **Longest streak:** 23 days
-- **Last active date:** 17-11-2026
+- **Current streak:** 24 days
+- **Longest streak:** 24 days
+- **Last active date:** 18-11-2026
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
