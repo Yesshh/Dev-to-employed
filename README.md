@@ -12,7 +12,7 @@ This repository documents my journey toward becoming a job-ready software develo
 | 📅 Day | Day 25 — tracking starts here |
 | 🔥 Current streak | 25 days |
 | 🏆 Longest streak | 25 days |
-| 💻 LeetCode problems solved | 48 |
+| 💻 LeetCode problems solved | 49 |
 | 🎯 Goal | Land a full-time developer job |
 
 
