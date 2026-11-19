@@ -45,7 +45,7 @@ This repository documents my journey toward becoming a job-ready software develo
 | 22 | 16-11-2026 | Majority Element, Sort colours | ✅ |
 | 23 | 17-11-2026 | Rearrange Array Elements | ✅ |
 | 24 | 18-11-2026 | Range Sum Query | ✅ |
-| 25 | 19-11-2026 | Set Matrix Zero, Longest Consecutive Sequence, Product of Array except self | ✅ |
+| 25 | 19-11-2026 | Set Matrix Zero, Longest Consecutive Sequence, Product of Array except self, Subarray Sun Equals K | ✅ |
 
 
 ## 🔥 Streak Tracker
