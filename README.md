@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 27 — tracking starts here |
-| 🔥 Current streak | 27 days |
-| 🏆 Longest streak | 27 days |
-| 💻 LeetCode problems solved | 52 |
+| 📅 Day | Day 28 — tracking starts here |
+| 🔥 Current streak | 28 days |
+| 🏆 Longest streak | 28 days |
+| 💻 LeetCode problems solved | 53 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -48,12 +48,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 25 | 19-11-2026 | Set Matrix Zero, Longest Consecutive Sequence, Product of Array except self, Subarray Sun Equals K | ✅ |
 | 26 | 20-11-2026 | Next Permutation | ✅ |
 | 27 | 21-11-2026 | Valid Palindrome, Two Sum II - Input array is sorted | ✅ |
+| 28 | 22-11-2026 | 3Sum | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 27 days
-- **Longest streak:** 27 days
-- **Last active date:** 21-11-2026
+- **Current streak:** 28 days
+- **Longest streak:** 28 days
+- **Last active date:** 22-11-2026
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
