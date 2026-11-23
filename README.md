@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 28 — tracking starts here |
-| 🔥 Current streak | 28 days |
-| 🏆 Longest streak | 28 days |
-| 💻 LeetCode problems solved | 53 |
+| 📅 Day | Day 29 — tracking starts here |
+| 🔥 Current streak | 29 days |
+| 🏆 Longest streak | 29 days |
+| 💻 LeetCode problems solved | 55 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -49,12 +49,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 26 | 20-11-2026 | Next Permutation | ✅ |
 | 27 | 21-11-2026 | Valid Palindrome, Two Sum II - Input array is sorted | ✅ |
 | 28 | 22-11-2026 | 3Sum | ✅ |
+| 29 | 23-11-2026 | 4Sum, Container with most water | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 28 days
-- **Longest streak:** 28 days
-- **Last active date:** 22-11-2026
+- **Current streak:** 29 days
+- **Longest streak:** 29 days
+- **Last active date:** 23-11-2026
 - **Next milestone:** 30 consecutive days
 
 ### Streak milestones
