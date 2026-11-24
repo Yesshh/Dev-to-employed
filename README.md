@@ -63,7 +63,7 @@ This repository documents my journey toward becoming a job-ready software develo
 
 - [x] 🔥 7-day streak
 - [x] 💪 14-day streak
-- [ ] ⚡ 30-day streak
+- [x] ⚡ 30-day streak
 - [ ] 🏆 60-day streak
 - [ ] 👑 100-day streak
 
