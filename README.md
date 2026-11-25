@@ -9,10 +9,10 @@ This repository documents my journey toward becoming a job-ready software develo
 
 | Metric | Progress |
 |---|---|
-| 📅 Day | Day 30 — tracking starts here |
-| 🔥 Current streak | 30 days |
-| 🏆 Longest streak | 30 days |
-| 💻 LeetCode problems solved | 58 |
+| 📅 Day | Day 31 — tracking starts here |
+| 🔥 Current streak | 31 days |
+| 🏆 Longest streak | 31 days |
+| 💻 LeetCode problems solved | 59 |
 | 🎯 Goal | Land a full-time developer job |
 
 
@@ -51,12 +51,13 @@ This repository documents my journey toward becoming a job-ready software develo
 | 28 | 22-11-2026 | 3Sum | ✅ |
 | 29 | 23-11-2026 | 4Sum, Container with most water | ✅ |
 | 30 | 24-11-2026 | Spiral Matrix, Rotate Image, Merge Intervals | ✅ |
+| 31 | 25-11-2026 | Find the Duplicate Number | ✅ |
 
 ## 🔥 Streak Tracker
 
-- **Current streak:** 30 days
-- **Longest streak:** 30 days
-- **Last active date:** 24-11-2026
+- **Current streak:** 31 days
+- **Longest streak:** 31 days
+- **Last active date:** 25-11-2026
 - **Next milestone:** 60 consecutive days
 
 ### Streak milestones
